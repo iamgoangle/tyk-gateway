@@ -1,0 +1,7 @@
+{
+  "event": "{{.Type}}",
+  "message": "{}",
+  "api_id": "{{.Meta.APIID}}",
+  "path": "{{.Meta.Path}}",
+  "Status": "{{.Meta.CircuitEvent}}"
+}
